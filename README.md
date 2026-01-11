@@ -22,7 +22,7 @@ This project focuses strongly on **clean UI, UX, responsiveness, and frontend be
 
 ## 🚀 Live Demo
 
-👉 **Live Website**: *((https://portfolio-git-main-vinoths-projects-4ee395bb.vercel.app/)*
+👉 **Live Website**: *(https://portfolio-zzb6.vercel.app/)*
 
 ---
 
@@ -105,4 +105,73 @@ This project focuses strongly on **clean UI, UX, responsiveness, and frontend be
 ✔ Secure & fast email delivery
 ✔ Easy configuration using public keys
 
+Example usage:
+
+```js
+emailjs.sendForm(
+  "service_id",
+  "template_id",
+  formRef.current,
+  "public_key"
+)
+```
+
+---
+
+## 🖼️ Images & Assets
+
+* All project images and icons are optimized
+* Images are stored locally and imported correctly
+* Ensures fast loading & clean structure
+
+---
+
+## 📱 Responsive Design
+
+* Mobile-friendly layout 📱
+* Tablet & desktop optimized 💻
+* Responsive navigation bar
+* Adaptive grid layouts
+
+---
+
+## 🎯 Key Features
+
+✅ Clean UI & modern design
+✅ Project filtering functionality
+✅ Working contact form
+✅ No backend dependency
+✅ Fast loading & optimized assets
+✅ Easy navigation
+✅ Professional layout
+
+---
+
+## 🧠 What I Learned from This Project
+
+* Structuring a **real portfolio website**
+* Building reusable React components
+* Handling **EmailJS integration**
+* Creating responsive layouts
+* Managing assets & images correctly
+* Writing clean, maintainable frontend code
+
+---
+
+## 🔮 Future Enhancements
+
+* 🌙 Dark mode
+* ✨ Animations (Framer Motion)
+* 🧑‍💼 Resume download button
+* 📊 Project analytics
+* 🌍 Multi-language support
+
+---
+
+## 🙌 Conclusion
+
+This Portfolio Website represents my **frontend skills, design sense, and real-world implementation ability**.
+It is built with a focus on **clarity, usability, and professionalism**, making it suitable for recruiters, clients, and collaborators.
+
+---
 
